@@ -11,4 +11,5 @@
 public class Client {
     //Nouvelle classe (modifiee)
     //Nouveau commentaire
+    //Création de conflits
 }
