@@ -9,5 +9,6 @@
  * @author Denoëla
  */
 public class Client {
-    //Nouvelle classe
+    //Nouvelle classe (modifiee)
+    //Nouveau commentaire
 }
